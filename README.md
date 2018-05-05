@@ -1,5 +1,13 @@
-# Bahmni Apps
 
+AppServe provides application as a service(AaS). AppServe strongly believes application development cost as O(1). It means zero development cost for applications.
+
+Patient care platform Bahmni is core application for hosptial management App.
+
+Installation steps
+
+
+
+# Bahmni Apps
 [![Build Status](https://travis-ci.org/Bahmni/openmrs-module-bahmniapps.svg?branch=master)](https://travis-ci.org/Bahmni/openmrs-module-bahmniapps)
 
 This repository acts as the front end for the **Bahmni EMR**. It is compeltely written in **AngularJS**.
