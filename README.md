@@ -1,5 +1,5 @@
 
-AppServe provides application as a service(AaS). AppServe strongly believes application development cost as O(1). It means zero development cost for applications.
+AppServe provides application as a service(AaS). AppServe strongly believes application development cost as O(1). It means zero development cost for applications development.
 
 Patient care platform Bahmni is core application for hosptial management App.
 
